@@ -1,2 +1,6 @@
 # aabarca7.github.io
-Portafolio
+Hola!
+Me presento soy Alan Abarca Maestro en tecnológicas de la información
+y este es mi portafolio.
+
+Cualquier proyecto no duden en contactarme
